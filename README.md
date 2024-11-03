@@ -50,7 +50,8 @@ A collection of completed courses, books, websites, videos and blogs
 * NLP course
 * 
 ## Books
-* ![Image of 100 page ML book]('https://github.com/dgwalters-1974/learning-resources/blob/main/images/100pageml.jpeg?raw=true')
+<img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4042.jpg?raw=true" alt="drawing" width="200"/><img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4044.jpg?raw=true" width="200"/><img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4046.jpg?raw=true" alt="drawing" width="200"/><img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4047.jpg?raw=true" width="200"/><img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4048.jpg?raw=true" width="200"/>
+
 
 ## Other useful resources and good sources of information...
 * https://missing.csail.mit.edu/ (Good background on the not so sexy stuff)
