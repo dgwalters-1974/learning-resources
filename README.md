@@ -50,7 +50,8 @@ A collection of completed courses, books, websites, videos and blogs
 * NLP course
 * 
 ## Books
-* 
+* ![Image of 100 page ML book]('https://github.com/dgwalters-1974/learning-resources/edit/main/images/100pageml.jpeg' "Title")
+
 ## Other useful resources and good sources of information...
 * https://missing.csail.mit.edu/ (Good background on the not so sexy stuff)
 * https://github.com/veggiemonk/awesome-docker (Plenty of Docker projects and resources)
