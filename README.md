@@ -50,6 +50,11 @@ A collection of completed courses, books, websites, videos and blogs
 * NLP course
 * 
 ## Books
-*
-
+* 
+## Other useful resources and good sources of information...
+* https://missing.csail.mit.edu/ (Good background on the not so sexy stuff)
+* https://github.com/veggiemonk/awesome-docker (Plenty of Docker projects and resources)
+* https://training.play-with-docker.com/ (More Docker)
+* https://fullstackdeeplearning.com/ (Slightly outdated but holistic in its approach)
+* https://firexfly.com/aws-linux-tutorial/ (AWS intro and some Linux practice)
   
