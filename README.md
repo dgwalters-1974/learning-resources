@@ -1,5 +1,4 @@
 # learning-resources
-A collection of completed courses, books, websites, videos and blogs
 
 ## Courses
 
