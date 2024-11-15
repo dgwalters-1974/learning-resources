@@ -11,7 +11,7 @@
 * Deploy ML Models in Production with FastAPI and Docker (Laxmi Kant)
 * The Git and Github Bootcamp (Colt Steele)
 * The Ultimate Pandas Bootcamp: Advanced Python Data Analysis (Andy Bek)
-* Unlock Python Regular Expressionsn (Mihai Catalin Teodosiou)
+* Unlock Python Regular Expressions (Mihai Catalin Teodosiou)
 * Automate the Boring Stuff with Python Programming (Al Sweigart)
   
 [Coursera](https://www.coursera.org)
