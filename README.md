@@ -16,6 +16,8 @@
 
 [Kaggle](https://www.kaggle.com)
 * Completed the 5-Day Gen AI Intensive Course. This course was run in November 2024. Participants attended daily seminars, studied white papers, and completed daily assignments about Generative AI.
+  <img align="left" width="30px" style="padding-right:10px;" src="images/badge.svg"/>
+
 
 [Coursera](https://www.coursera.org)
 * DeepLearning.AI Deep Learning Specialization
