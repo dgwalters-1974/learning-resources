@@ -1,5 +1,7 @@
 # learning-resources
 
+A selection of completed coursed, books, websites and blogs that have been helpful along the way...
+
 ## Courses
 
 [University of Helsinki](https://programming-24.mooc.fi/)
@@ -50,7 +52,7 @@
 
 [Hugging Face](https://huggingface.co/learn/nlp-course/chapter1/1) 🤗:
 * NLP course
-* 
+
 ## Books and 'Other'
 
 <img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4042.jpg?raw=true" alt="drawing" width="150"/><img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4044.jpg?raw=true" width="150"/><img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4046.jpg?raw=true" alt="drawing" width="150"/><img src="https://github.com/dgwalters-1974/learning-resources/blob/main/images/IMG_4048.jpg?raw=true" width="150"/>
