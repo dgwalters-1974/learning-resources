@@ -15,6 +15,7 @@ A selection of completed coursed, books, websites and blogs that have been helpf
 * The Ultimate Pandas Bootcamp: Advanced Python Data Analysis (Andy Bek)
 * Unlock Python Regular Expressions (Mihai Catalin Teodosiou)
 * Automate the Boring Stuff with Python Programming (Al Sweigart)
+* SQL and PostgreSQL: Become an SQL expert (John Avis)
 
 [Kaggle](https://www.kaggle.com)
 * Completed the 5-Day Gen AI Intensive Course. This course was run in November 2024. Participants attended daily seminars, studied white papers, and completed daily assignments about Generative AI.
