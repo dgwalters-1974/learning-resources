@@ -1,6 +1,6 @@
 # learning-resources
 
-A selection of completed coursed, books, websites and blogs that have been helpful along the way...
+A selection of completed courses, books, websites and blogs that have been helpful along the way...
 
 ## Courses
 
